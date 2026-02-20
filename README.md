@@ -113,4 +113,4 @@ Ahmed Awad
 
 GitHub: https://github.com/Ahmed-Awad01
 
-LinkedIn: (Add your LinkedIn profile link here)
+LinkedIn: www.linkedin.com/in/ahmad-awad-a48996352
