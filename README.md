@@ -79,6 +79,8 @@ src/
 │
 ├── assets/
 └── environments/
+
+
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/Ahmed-Awad01/E-commerce_Project.git
