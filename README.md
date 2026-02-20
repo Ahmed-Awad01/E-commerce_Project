@@ -67,19 +67,6 @@ GitHub Pages
 
 VS Code
 
-🏗️ Project Structure
-src/
-│
-├── app/
-│   ├── components/
-│   ├── pages/
-│   ├── services/
-│   ├── models/
-│   └── app-routing.module.ts
-│
-├── assets/
-└── environments/
-
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
