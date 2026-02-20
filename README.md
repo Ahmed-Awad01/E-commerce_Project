@@ -1,116 +1,144 @@
-🛒 E-Commerce Project — Angular SPA
-📌 Overview
+# 🛒 E-Commerce Project — Angular SPA
 
-This project is a Single Page Application (SPA) E-Commerce website developed using Angular.
+## 📌 Overview
+This project is a **Single Page Application (SPA)** E-Commerce website developed using **Angular**.  
 It simulates a modern online shopping experience with dynamic product browsing, routing, and shopping cart functionality.
 
-The application is built using a component-based architecture and integrates external APIs to fetch product data dynamically.
+The application is built using a **component-based architecture** and integrates external APIs to fetch product data dynamically.
 
-🔗 Live Demo:
+🔗 **Live Demo:**  
 👉 https://ahmed-awad01.github.io/E-commerce_Project/
 
-🔗 GitHub Repository:
+🔗 **GitHub Repository:**  
 👉 https://github.com/Ahmed-Awad01/E-commerce_Project
 
-🚀 Features
+---
 
-✅ Single Page Application (SPA) architecture
+## 🚀 Features
 
-✅ Dynamic product listing
+- ✅ Single Page Application (SPA) architecture
+- ✅ Dynamic product listing
+- ✅ Product details page
+- ✅ Shopping cart system
+- ✅ Seamless navigation using Angular Routing
+- ✅ API data fetching using HTTP Client
+- ✅ Responsive design (Desktop & Mobile)
+- ✅ Modular and reusable components
+- ✅ Modern UI/UX design
 
-✅ Product details page
+---
 
-✅ Shopping cart system
+## 🛠️ Technologies Used
 
-✅ Seamless navigation using Angular Routing
+### Frontend
+- Angular
+- TypeScript
+- HTML5
+- SCSS
+- Bootstrap
 
-✅ API data fetching using HTTP Client
+### Angular Concepts
+- Components & Modules
+- Angular Routing
+- Services & Dependency Injection
+- HTTP Client (API Integration)
+- SPA Navigation
+- Component Communication
 
-✅ Responsive design (Desktop & Mobile)
+### Tools & Deployment
+- Git & GitHub
+- GitHub Pages
+- VS Code
 
-✅ Modular and reusable components
+---
 
-✅ Modern UI/UX design
+## 🏗️ Project Structure
 
-🛠️ Technologies Used
-Frontend
+```
+src/
+│
+├── app/
+│   ├── components/
+│   ├── pages/
+│   ├── services/
+│   ├── models/
+│   └── app-routing.module.ts
+│
+├── assets/
+└── environments/
+```
 
-Angular
+---
 
-TypeScript
+## ⚙️ Installation & Setup
 
-HTML5
-
-SCSS
-
-Bootstrap
-
-Angular Concepts
-
-Components & Modules
-
-Angular Routing
-
-Services & Dependency Injection
-
-HTTP Client (API Integration)
-
-SPA Navigation
-
-Component Communication
-
-Tools & Deployment
-
-Git & GitHub
-
-GitHub Pages
-
-VS Code
-
-
-⚙️ Installation & Setup
-1️⃣ Clone the Repository
+### 1️⃣ Clone the Repository
+```bash
 git clone https://github.com/Ahmed-Awad01/E-commerce_Project.git
-2️⃣ Navigate to Project Folder
+```
+
+### 2️⃣ Navigate to Project Folder
+```bash
 cd E-commerce_Project
-3️⃣ Install Dependencies
+```
+
+### 3️⃣ Install Dependencies
+```bash
 npm install
-4️⃣ Run Development Server
+```
+
+### 4️⃣ Run Development Server
+```bash
 ng serve
+```
 
 Open your browser at:
 
+```
 http://localhost:4200/
-🌐 Deployment
+```
 
-The project is deployed using GitHub Pages.
+---
+
+## 🌐 Deployment
+
+The project is deployed using **GitHub Pages**.
 
 Build command used:
 
+```bash
 ng build --base-href="https://ahmed-awad01.github.io/E-commerce_Project/"
+```
 
 Deploy command:
 
+```bash
 npx angular-cli-ghpages --dir=dist/
-📚 What I Learned
+```
 
-Building scalable Angular applications
+---
 
-Creating Single Page Applications (SPA)
+## 📚 What I Learned
 
-Working with REST APIs
+- Building scalable Angular applications
+- Creating Single Page Applications (SPA)
+- Working with REST APIs
+- Managing routing and navigation
+- Component-based architecture
+- Deploying Angular apps online
 
-Managing routing and navigation
-
-Component-based architecture
-
-Deploying Angular apps online
+---
 
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Ahmed Awad
+**Ahmed Awad**
 
-GitHub: https://github.com/Ahmed-Awad01
+- GitHub: https://github.com/Ahmed-Awad01
+- LinkedIn: https://www.linkedin.com/in/ahmad-awad-a48996352
 
-LinkedIn: www.linkedin.com/in/ahmad-awad-a48996352
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
