@@ -135,7 +135,7 @@ npx angular-cli-ghpages --dir=dist/
 **Ahmed Awad**
 
 - GitHub: https://github.com/Ahmed-Awad01
-- LinkedIn: https://www.linkedin.com/in/ahmad-awad-a48996352
+- LinkedIn: www.linkedin.com/in/ahmad-3wad
 
 ---
 
